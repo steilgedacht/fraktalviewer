@@ -27,23 +27,19 @@ Refresh the view with ![image](https://user-images.githubusercontent.com/8974820
 You can enalbe dynamic view with this button: ![image](https://user-images.githubusercontent.com/89748204/155363161-f8b21631-c3fd-4a7c-af80-3629ea6eacaf.png)
 
 Here you first have to expand the window in the bottom right with ![image](https://user-images.githubusercontent.com/89748204/155362520-e1879969-ac9a-4372-aca4-b4c732f00cf0.png)
-The dynamic view has only a limited size and a limited iteration depth in order to increase refresh time:
+The dynamic view has only a limited size and a limited iteration depth in order to increase refresh time: <br/>
 ![image](https://user-images.githubusercontent.com/89748204/155362373-2918ead6-bd50-4e25-9c01-171532c78b48.png)
 
-
-### Path of the iteration variable
-![image](https://user-images.githubusercontent.com/89748204/155362131-3134992b-98bd-496e-8445-26a45d1b646c.png)
-
 ## Underlying Formulas
-There are several different formulas to choose:
+There are several different formulas to choose:<br/>
 ![image](https://user-images.githubusercontent.com/89748204/155363332-bb5e29b6-96b7-417a-a275-0eb4859a03ab.png)
 
 
 ## Color Themes
-There are also multiple color themes avaidble:
+There are also multiple color themes avaidble:<br/>
 ![image](https://user-images.githubusercontent.com/89748204/155363415-74d1c211-101b-4af0-af7c-78eb67744130.png)
 
-You can also change the black color of the elements, that are contained in the set, to a different color.
+You can also change the black color of the elements, that are contained in the set, to a different color. <br/>
 ![image](https://user-images.githubusercontent.com/89748204/155363475-55dfcb00-b0af-41ae-8ead-8d1598db2880.png)
 
 
@@ -51,10 +47,12 @@ You can also change the black color of the elements, that are contained in the s
 ![image](https://user-images.githubusercontent.com/89748204/155363534-2daea228-1762-4cd0-bb45-9697ceb688c6.png)
 
 ## Exporting Images
-![image](https://user-images.githubusercontent.com/89748204/155363569-fb7f68b9-1fd8-40c2-b728-029e212ddeb3.png)
+![image](https://user-images.githubusercontent.com/89748204/155363569-fb7f68b9-1fd8-40c2-b728-029e212ddeb3.png) <br/>
+You can add a name for the file in the "Dateiname" box and the click on "Speichern" to save the image. Select the Mandelbrotset or the Juliaset first before saving.
 
 ## Animation
-![image](https://user-images.githubusercontent.com/89748204/155363864-cac02a16-44af-427a-a4d6-051e11994805.png)
+By clicking on Animationsbereich you can configure a starting position, a ending position and the steps inbetween them. <br/>
+![image](https://user-images.githubusercontent.com/89748204/155363864-cac02a16-44af-427a-a4d6-051e11994805.png)<br/>
 This configuration would mean: 
 Start at 1 + i1 and go to 2 + i2 in 5 steps.
 If you then click on Animate, the images get exported and you can later put them together to a video in a software like Blender.
