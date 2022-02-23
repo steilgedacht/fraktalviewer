@@ -3,7 +3,7 @@
 A program to explore fractals like the mandelbrot-set and the corresponding julia-sets.
 
 The main program is the `Fraktalviewer.exe`.
-The project was made in Visual Studio, the corresponding project files are in the /Fraktalviewer/ directory.
+The project was made in Visual Studio, the corresponding project files are in the [/Fraktalviewer](https://github.com/steilgedacht/fraktalviewer/tree/main/Fraktalviewer) directory.
 
 **I made also a couple of explainitory videos:**  
 Mandelbrot set: https://www.youtube.com/watch?v=_78kGnsYXLc  
